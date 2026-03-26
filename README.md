@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Lutfiana Putri Amalia
 
-<!--
-**lutfianafiana5-bit/lutfianafiana5-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Systems student with a strong interest in Artificial Intelligence and Data Science. I am passionate about learning how technology can be used to solve real world problems and improve decision-making through data.
 
-Here are some ideas to get you started:
+## 💻 Skills & Tech Stack
+- Python (Basic) 🐍  
+- Data Analysis 📊  
+- Machine Learning (Basic) 🤖  
+- Microsoft Excel 📈  
+- Git & GitHub 🌐  
+- Mobile Programming (Learning) 📱    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me  
+- Linkedln: www.linkedin.com/in/lutfiana-putri-si
+
+## ✨ Fun Fact
+I enjoy spending my time learning about technology and discovering new skills 🌱 
+
