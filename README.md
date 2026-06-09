@@ -2,7 +2,7 @@
 
 Information Systems student | AI Development learner at Infinite Learning
 
-About me:
+## About me:
 🎓 Studying Information Systems with a focus on AI & Data Science
 🤖 Participant of AI Development — Independent Study Batch 10 at Infinite Learning (PT Kinema Systrans Multimedia), Batam
 🌱 Currently deepening my knowledge in Machine Learning, Deep Learning, and Model Deployment
