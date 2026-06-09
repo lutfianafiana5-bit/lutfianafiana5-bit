@@ -1,14 +1,24 @@
 ## Hi, I'm Lutfiana Putri Amalia
 
-I am an Information Systems student with a strong interest in Artificial Intelligence and Data Science. I am passionate about learning how technology can be used to solve real world problems and improve decision-making through data.
+Information Systems student | AI Development learner at Infinite Learning
 
-## 💻 Skills & Tech Stack
-- Python (Basic) 🐍  
-- Data Analysis 📊  
-- Machine Learning (Basic) 🤖  
-- Microsoft Excel 📈  
-- Git & GitHub 🌐  
-- Mobile Programming (Learning) 📱    
+About me:
+🎓 Studying Information Systems with a focus on AI & Data Science
+🤖 Participant of AI Development — Independent Study Batch 10 at Infinite Learning (PT Kinema Systrans Multimedia), Batam
+🌱 Currently deepening my knowledge in Machine Learning, Deep Learning, and Model Deployment
+🤝 Open to collaborating on data science & AI projects
+💡 Passionate about how AI can solve real-world problems through data
+
+
+## Skills & Tech Stack
+- Python
+- Data Science 
+- Machine Learning  
+- Deep Learning
+- Microsoft Excel  
+- Git & GitHub 
+- Generative AI
+- Model Deployment    
 
 ## 🌐 Connect with me  
 - Linkedln: www.linkedin.com/in/lutfiana-putri-si
